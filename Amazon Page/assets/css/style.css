@@ -48,6 +48,7 @@ h1 {
   font-weight: 550;
   padding-left: 50px;
   padding-top: 15px;
+  text-align: left;
 }
 
 a {
@@ -72,7 +73,7 @@ p {
 }
 
 .suggested img {
-  width: 230px;
+  width: 210px;
 
   height: 300px;
   box-sizing: border-box;
@@ -129,6 +130,6 @@ footer p {
   text-align: center;
 }
 #logo2 {
-  padding-top: 48px;
-  width: 10%;
+  padding-top: 60px;
+  width: 12%;
 }
