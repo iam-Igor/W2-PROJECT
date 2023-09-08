@@ -74,13 +74,18 @@ p {
 .suggested img {
   width: 230px;
 
-  margin-left: 50px;
-  margin-right: 30px;
   height: 300px;
   box-sizing: border-box;
   border-radius: 20px;
   margin-top: 27px;
   margin-bottom: 27px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.images2 {
+  float: left;
+  text-align: center;
 }
 
 #vr {
@@ -93,7 +98,7 @@ p {
 }
 
 .aside2 {
-  margin-top: 80px;
+  margin-top: 100px;
   text-align: center;
 }
 
